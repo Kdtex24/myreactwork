@@ -1,0 +1,151 @@
+.landing-page {
+  background-color: #ffffff;
+  border-radius: 16px;
+  height: 1117px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.landing-page .overlap {
+  background-image: url(../../../static/img/unsplash-0o-gezyargo.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1117px;
+  position: relative;
+}
+
+.landing-page .unsplash {
+  height: 724px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1433px;
+}
+
+.landing-page .unsplash-xclndgzag {
+  height: 883px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 581px;
+}
+
+.landing-page .header-navigation {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.landing-page .frame-16 {
+  color: var(--primary-color) !important;
+}
+
+.landing-page .frame-instance {
+  color: var(--variable-collection-asset-2) !important;
+}
+
+.landing-page .frame-16-instance {
+  border-color: var(--primary-color) !important;
+}
+
+.landing-page .header-navigation-2 {
+  background-color: var(--primary-color) !important;
+}
+
+.landing-page .header-navigation-3 {
+  color: var(--secondary-color) !important;
+}
+
+.landing-page .img {
+  height: 228px;
+  left: 1122px;
+  object-fit: cover;
+  position: absolute;
+  top: 606px;
+  width: 228px;
+}
+
+.landing-page .vector {
+  height: 155px;
+  left: 947px;
+  position: absolute;
+  top: 436px;
+  width: 197px;
+}
+
+.landing-page .frame-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 156px;
+  position: absolute;
+  top: 234px;
+}
+
+.landing-page .welcome-to-block {
+  color: var(--variable-collection-asset-2);
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 676px;
+}
+
+.landing-page .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 17px;
+  justify-content: center;
+  position: relative;
+}
+
+.landing-page .learning-on-any {
+  color: transparent;
+  font-family: "Poppins", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 907px;
+}
+
+.landing-page .span {
+  color: #d4af37;
+}
+
+.landing-page .text-wrapper-5 {
+  color: #ffffff;
+}
+
+.landing-page .p {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 892px;
+}
+
+.landing-page .button-fill-instance {
+  height: 70px !important;
+  left: 156px !important;
+  position: absolute !important;
+  top: 792px !important;
+}
+
+.landing-page .button-fill-2 {
+  font-size: 20px !important;
+  margin-top: unset !important;
+}
