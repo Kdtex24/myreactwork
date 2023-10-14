@@ -1,0 +1,13 @@
+:root {
+  --primary-color: rgba(212, 175, 55, 1);
+  --secondary-color: rgba(0, 0, 0, 1);
+  --variable-collection-accent-4: rgba(65, 65, 65, 1);
+  --variable-collection-asset-01: rgba(30, 30, 30, 1);
+  --variable-collection-asset-01-70: rgba(0, 0, 0, 0.7);
+  --variable-collection-asset-1-60: rgba(30, 30, 30, 0.6);
+  --variable-collection-asset-2: rgba(255, 255, 255, 1);
+  --variable-collection-asset-2-90: rgba(255, 255, 255, 0.9);
+  --variable-collection-primary-2: rgba(202, 148, 59, 1);
+  --variable-collection-primary-color-36: rgba(212, 175, 55, 0.36);
+  --variable-collection-secondary-color-80: rgba(0, 0, 0, 0.8);
+}
